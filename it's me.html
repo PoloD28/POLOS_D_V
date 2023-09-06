@@ -1,0 +1,17 @@
+#include <iostream>
+#include <string>
+
+using namespace std;
+
+int main() {
+    string input = "";
+    int count = 0;
+    while (count < 100) {                       
+        char c;
+        cin >> c;
+        input += c;
+        count++;
+    }
+    cout << "Ви ввели наступну інформацію: " << input << endl;
+    return 0;
+}
