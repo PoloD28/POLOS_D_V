@@ -1,0 +1,7 @@
+C:\Users\Deniel\Desktop\OPP\хрень\Task 3\obj\Debug\TrafficSimulation.csproj.AssemblyReference.cache
+C:\Users\Deniel\Desktop\OPP\хрень\Task 3\obj\Debug\TrafficSimulation.csproj.CoreCompileInputs.cache
+C:\Users\Deniel\Desktop\OPP\хрень\Task 3\bin\Debug\Task 3.exe.config
+C:\Users\Deniel\Desktop\OPP\хрень\Task 3\bin\Debug\Task 3.exe
+C:\Users\Deniel\Desktop\OPP\хрень\Task 3\bin\Debug\Task 3.pdb
+C:\Users\Deniel\Desktop\OPP\хрень\Task 3\obj\Debug\Task 3.exe
+C:\Users\Deniel\Desktop\OPP\хрень\Task 3\obj\Debug\Task 3.pdb
