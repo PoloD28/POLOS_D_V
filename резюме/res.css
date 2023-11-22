@@ -1,0 +1,64 @@
+body {
+    background-color: #85192C;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#left-container {
+    width: 50%;
+    float: left;
+    padding: 20px;
+    box-sizing: border-box;
+    color: white;
+}
+
+img {
+    width: 50%;
+    border-radius: 100%;
+}
+
+h1 {
+    font-size: 96px;
+    margin-top: 0;
+}
+
+.info p {
+    font-size: 40px;
+}
+
+hr {
+    border: 0.5px solid white;
+}
+
+h2 {
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.bio {
+    font-size: 10px;
+}
+
+.contact-buttons {
+    display: flex;
+    justify-content: space-between;
+}
+
+.button {
+    width: 30%;
+    background-color: #FFCD29;
+    padding: 10px;
+    text-align: center;
+    color: black;
+    border-radius: 10px;
+}
+.right-section {
+    float: right;
+    width: 50%;
+
+
+}
+
+.square {
+    width: 100%; 
+    aspect-ratio: 1/1; 
+}
