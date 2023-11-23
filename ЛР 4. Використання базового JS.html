@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>JavaScript Lab</title>
+    <script>
+        // структура віконного інтерфейсу редактора програмних кодів JavaScript
+        console.log("Hello, JavaScript!");
+
+        // синтаксис та конструкція мови JavaSript.
+        let variableExample = "This is a JavaScript variable.";
+
+        //  керування обчислювальним процесом за допомогою циклів та управляючих операторів.
+        for (let i = 0; i < 5; i++) {
+            console.log("Iteration " + i);
+        }
+
+        // метод роботи з об'єктами документа.
+        function updateContent() {
+            document.getElementById("exampleElement").innerHTML = "Updated content";
+        }
+
+        //технологія організації зворотнього зв'язку за допомогою операторів alert(), confirm() та ін.
+        function getUserDecision() {
+            let userResponse = confirm("Do you want to proceed?");
+            if (userResponse) {
+                alert("User agreed!");
+            } else {
+                alert("User declined!");
+            }
+        }
+
+        //обробка подій та створення інтерактивних web-документів.
+        document.getElementById("interactiveButton").addEventListener("click", function () {
+            alert("Button clicked!");
+        });
+    </script>
+</head>
+<body>
+    <h1>JavaScript Lab</h1>
+    <button onclick="updateContent()">Update Content</button>
+    <button onclick="getUserDecision()">Ask User</button>
+    <button id="interactiveButton">Interactive Button</button>
+    <div id="exampleElement">Initial Content</div>
+</body>
+</html>
