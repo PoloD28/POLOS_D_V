@@ -1,0 +1,52 @@
+<!DOCTYPE html> 
+
+<html lang="en"> <!-- Початок HTML-документа з вказаною мовою - англійською -->
+
+<head> 
+
+    <meta charset="UTF-8"> 
+
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"> <!-- Сумісність для Internet Explorer -->
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"> <!-- Налаштування відображення на мобільних пристроях -->
+
+    <link rel="stylesheet" href="style.css"> 
+
+    <title>Advanced Search</title> 
+
+</head>
+
+<body> 
+
+    <form action="https://www.google.com/search"> <!-- Форма для розширеного пошуку з вказаним URL для відправки даних -->
+
+        <!-- Поля для введення даних користувачем з відповідними мітками (labels) -->
+
+        <label for="all-words">Find pages with all these words:</label>
+        <input type="text" id="all-words" name="all">
+        <br>
+        <label for="exact-phrase">Find pages with the exact phrase:</label>
+        <input type="text" id="exact-phrase" name="exact">
+        <br>
+        <label for="any-words">Find pages with any of these words:</label>
+        <input type="text" id="any-words" name="any">
+        <br>
+        <label for="none-words">Find pages with none of these words:</label>
+        <input type="text" id="none-words" name="none">
+        <br>
+
+        <!-- Кнопка для відправки форми -->
+
+        <input type="submit" value="Advanced Search">
+    </form>
+
+    <!-- Блок з посиланнями на інші сторінки -->
+
+    <div class="links">
+        <a href="index.html">Google Search</a>
+        <a href="image_search.html">Image Search</a>
+    </div>
+
+</body>
+
+</html>
