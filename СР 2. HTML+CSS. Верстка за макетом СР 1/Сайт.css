@@ -1,0 +1,96 @@
+.container {
+    display: flex;
+    height: 100vh;
+    background-color: darkred;
+}
+
+.left {
+    width: 40%;
+    padding: 20px;
+    color: white;
+}
+
+.left img {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+.container h1 {
+    font-size: 36px;
+    margin-top: 10px;
+    color: aliceblue;
+}
+
+.left p {
+    font-size: 18px;
+    margin-top: 10px;
+}
+
+.left ul {
+    list-style: none;
+    margin-top: 10px;
+}
+
+.left ul li {
+    margin-bottom: 5px;
+}
+
+.left ul li a {
+    color: white;
+    text-decoration: none;
+}
+
+.right {
+    width: 60%;
+    padding: 20px;
+    color: white;
+}
+
+.right h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+.trait {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+.trait span {
+    width: 150px;
+    font-size: 18px;
+}
+
+.scale {
+    width: 300px;
+    height: 20px;
+    border: 2px solid white;
+    border-radius: 10px;
+    overflow: hidden;
+}
+
+.bar {
+    height: 100%;
+    background-color: yellow;
+}
+
+.contact-buttons {
+    display: flex;
+    justify-content: space-between;
+}
+
+.button {
+    width: 30%;
+    background-color: #FFCD29;
+    padding: 10px;
+    text-align: center;
+    color: black;
+    border-radius: 10px;
+}
+.info p {
+    font-size: 15px;
+    color:aliceblue
+}
