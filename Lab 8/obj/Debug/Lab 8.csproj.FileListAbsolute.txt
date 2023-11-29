@@ -1,0 +1,7 @@
+C:\Users\Deniel\Desktop\OPP\хрень\Lab 8\bin\Debug\Lab 8.exe.config
+C:\Users\Deniel\Desktop\OPP\хрень\Lab 8\bin\Debug\Lab 8.exe
+C:\Users\Deniel\Desktop\OPP\хрень\Lab 8\bin\Debug\Lab 8.pdb
+C:\Users\Deniel\Desktop\OPP\хрень\Lab 8\obj\Debug\Lab 8.csproj.AssemblyReference.cache
+C:\Users\Deniel\Desktop\OPP\хрень\Lab 8\obj\Debug\Lab 8.csproj.CoreCompileInputs.cache
+C:\Users\Deniel\Desktop\OPP\хрень\Lab 8\obj\Debug\Lab 8.exe
+C:\Users\Deniel\Desktop\OPP\хрень\Lab 8\obj\Debug\Lab 8.pdb
