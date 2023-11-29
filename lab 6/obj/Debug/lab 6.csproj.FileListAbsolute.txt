@@ -1,0 +1,7 @@
+C:\Users\Deniel\Desktop\OPP\хрень\lab 6\bin\Debug\lab 6.exe.config
+C:\Users\Deniel\Desktop\OPP\хрень\lab 6\bin\Debug\lab 6.exe
+C:\Users\Deniel\Desktop\OPP\хрень\lab 6\bin\Debug\lab 6.pdb
+C:\Users\Deniel\Desktop\OPP\хрень\lab 6\obj\Debug\lab 6.csproj.AssemblyReference.cache
+C:\Users\Deniel\Desktop\OPP\хрень\lab 6\obj\Debug\lab 6.csproj.CoreCompileInputs.cache
+C:\Users\Deniel\Desktop\OPP\хрень\lab 6\obj\Debug\lab 6.exe
+C:\Users\Deniel\Desktop\OPP\хрень\lab 6\obj\Debug\lab 6.pdb
